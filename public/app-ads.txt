@@ -392,6 +392,7 @@ spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
 video.unrulymedia.com, 170071695, RESELLER
 yandex.com, 95746987, RESELLER
 google.com, pub-8836904755522068, RESELLER
+Pubmatic.com, 157704, RESELLER, 5d62403b186f2ace
 
 pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
 
