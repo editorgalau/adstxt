@@ -499,6 +499,17 @@ indexexchange.com, 199195, RESELLER, 50b1c356f2c5c8fc
 pubmatic.com, 161853, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 20086, RESELLER, 0bfd66d529a55807
 Xapads.com, 117219, RESELLER
+openx.com, 544015448, reseller, 6a698e2ec38604c6
+contextweb.com, 562669, reseller, 89ff185a4c4e857c
+conversantmedia.com, 100269, reseller, 03113cd04947736d
+algorix.co, 60543, direct, 5b394c12fea27a1d
+krushmedia.com, ajxf6r351a9m6catvk, reseller
+smartadserver.com, 4478, reseller
+video.unrulymedia.com, 9085206363819624071, reseller
+xapads.com, 117234, direct
+contextweb.com, 562842, reseller, 89ff185a4c4e857c
+improvedigital.com, 1416, reseller
+appnexus.com, 13356, direct
 
 
 applovin.com, baf6c691ab8845c3aae5f2af8df426e5, DIRECT
